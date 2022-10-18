@@ -1,0 +1,6 @@
+div:hover{
+    background-color: red;
+}
+div:active{
+    color:white
+}
