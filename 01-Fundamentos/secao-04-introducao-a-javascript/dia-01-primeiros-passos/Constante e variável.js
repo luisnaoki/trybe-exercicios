@@ -14,5 +14,4 @@ console.log(myName);
 console.log(birthCity);
 console.log(birthYear);
 
-/*
-(Não é possível efetuar a alteração do constante);
+//(Não é possível efetuar a alteração do constante);
