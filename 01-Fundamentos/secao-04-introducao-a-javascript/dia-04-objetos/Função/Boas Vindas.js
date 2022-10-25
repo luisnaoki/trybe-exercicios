@@ -13,6 +13,8 @@ console.log(soma(4,2));
 console.log(soma(20,10));
 
 //Crie uma função que calcule os números de um jogo de vôlei
+//Para vitória, vale 2 pontos
+//Para empate, vale 1 ponto
 function calcularPontos(vitorias,Empates){
   let resultado = 0;
   resultado = (vitorias*2)+ Empates;
@@ -20,5 +22,3 @@ function calcularPontos(vitorias,Empates){
 }
 console.log(calcularPontos(1,2))
 
-//Para vitória, vale 2 pontos
-//Para empate, vale 1 ponto

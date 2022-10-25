@@ -13,6 +13,6 @@ for(let key in  pizza){
 let pizzaDoce = ["morango","banana com canela","pizza de abacaxi", "pizza de chocolate"];
 
 for(let key in pizzaDoce){
-  console.log(pizzaDoce[key])
+  //console.log(pizzaDoce[key]) aparece um de cada
 
 };
