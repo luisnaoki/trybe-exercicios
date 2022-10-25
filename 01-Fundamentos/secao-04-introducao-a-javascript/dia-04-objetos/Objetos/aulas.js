@@ -19,3 +19,21 @@ let person= {
 }
 //console.log(person.firstName); ver só o primeiro nome.
 //console.log(person.favoriteFilm[1]);
+//alterar objeto
+person.firstName = 'luis';
+//console.log(person);
+
+//adicionando chave nova
+person.adress={
+  rua: 'av.julia maksoud',
+  num: 157,
+
+};
+
+//console.log(person.firstName+ " eu "+ person.lastName)
+
+const object = { a: 1, b: 2, c: 3 };
+
+for (const property in object) {
+  console.log(property + ' = ' + object[property]);
+}
