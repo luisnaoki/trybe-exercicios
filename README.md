@@ -29,11 +29,11 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 4: Introdução à JavaScript
 
-- [ ]  4-1: Primeiros passos
-- [ ]  4-2: Array e loop For
-- [ ]  4-3: Lógica de Programação e Algoritimos
-- [ ]  4-4: Objetos e funções
-- [ ]  4-5: Let,const,arrow functions e templates literals
-- [ ]  4-6: Projeto - Playground functions
+- [x]  4-1: Primeiros passos
+- [x]  4-2: Array e loop For
+- [x]  4-3: Lógica de Programação e Algoritimos
+- [x]  4-4: Objetos e funções
+- [x]  4-5: Let,const,arrow functions e templates literals
+- [x]  4-6: Projeto - Playground functions
 
 ##### Bloco 5: JavaScript DOM, Eventos e Webstorage
