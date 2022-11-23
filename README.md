@@ -37,3 +37,25 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x]  4-6: Projeto - Playground functions
 
 ##### Bloco 5: JavaScript DOM, Eventos e Webstorage
+- [x]  5-1: JavaScript DOM
+- [x]  5-2: JavaScript Trabalho com elementos
+- [x]  5-3: JavaScript Eventos
+- [x]  5-4: JavaScript WebStorage
+- [x]  5-5: Projeto - Pixel Art 🗿 🍷
+- [ ]  5-6: Projeto - Bônus 
+
+##### Bloco 6: HTML e CSS: Forms, FlexBox e Responsivo
+- [x]  6-1: HTML e CSS - FORMS
+- [x]  6-2: Biblioteca Js e Frameworks CSS
+- [x]  6-3: CSS flexbox - Parte 1
+- [x]  6-4: CSS flexbox - Parte 2
+- [x]  6-5: CSS Responsivo
+- [x]  6-6: Projeto - TrybeWarts 🗿 🍷
+
+##### Bloco 7: HTML e CSS: Forms, FlexBox e Responsivo
+- [x]  6-1: Fluxos e Manipulações de Objetos
+- [x]  6-2: Primeiros Passos Jest
+- [x]  6-3: Matchers e cobertura de código
+- [ ]  6-6: Projeto - JavaScript Teste Unitários
+
+##### Bloco 8: High Order Functions do JS ES
