@@ -53,9 +53,9 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x]  6-6: Projeto - TrybeWarts 🗿 🍷
 
 ##### Bloco 7: HTML e CSS: Forms, FlexBox e Responsivo
-- [x]  6-1: Fluxos e Manipulações de Objetos
-- [x]  6-2: Primeiros Passos Jest
-- [x]  6-3: Matchers e cobertura de código
-- [ ]  6-6: Projeto - JavaScript Teste Unitários
+- [x]  7-1: Fluxos e Manipulações de Objetos
+- [x]  7-2: Primeiros Passos Jest
+- [x]  7-3: Matchers e cobertura de código
+- [x]  7-6: Projeto - JavaScript Teste Unitários
 
 ##### Bloco 8: High Order Functions do JS ES
