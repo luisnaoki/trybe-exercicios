@@ -4,12 +4,16 @@
   "description": "Melhor gerador de senhas",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "vite --open"
+    
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "nanoid": "^4.0.1",
-    "npm": "^9.5.1"
-  }
+    "npm": "^9.5.1",
+    "vite": "^4.1.4"
+  },
+  "type": "module"
 }
